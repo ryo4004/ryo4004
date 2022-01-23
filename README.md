@@ -1,4 +1,6 @@
-### Hi, I’m a web developer in Japan
+### Hi, I’m a web developer
+
+for more information...
 
 - https://ryo4004.net/
 - https://twitter.com/ryo4004/
